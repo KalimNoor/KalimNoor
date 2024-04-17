@@ -6,7 +6,3 @@ I am a software engineer currently working as a full-time apprentice developer a
 ### 💻Tech Stack I'm predominately working with
 React 
 Typscript
-
-### 📲 My socials
-<a href="www.linkedin.com/in/kalim-noor-b2536b214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kalim-noor-b2536b214" height="30" width="40" /></a>
-</p>
